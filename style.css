@@ -12,7 +12,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
-  max-width: 1400px;
+  max-width: 800px;
   width: 100%;
   margin: 0 auto;
   padding: 50px 20px;
@@ -124,7 +124,7 @@ h2::after {
   background: #2a7a3d;
   position: absolute;
   top: 5px;
-  right: -98px;
+  right: -37px;
 }
 
 .skills ul li:last-child::after {
