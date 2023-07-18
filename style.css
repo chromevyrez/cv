@@ -89,6 +89,7 @@ header h3 {
 h2 {
   text-transform: uppercase;
   position: relative;
+  display: inline-block;
 }
 
 h2::after {
@@ -97,7 +98,8 @@ h2::after {
   height: 5px;
   width: 50px;
   position: absolute;
-  bottom: 9px;
+  bottom: 15px;
+  right: -54px;
 }
 
 .hr {
